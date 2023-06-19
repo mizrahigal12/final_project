@@ -31,3 +31,5 @@ try:
     cnx.close()
 except pymysql.Error as e:
     print(f"Error connecting to MySQL: {e}")
+
+print('test')
