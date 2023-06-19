@@ -39,3 +39,4 @@ print('crypto_coins_raw_data table has been created')
 
 
 print('just test')
+print('just test22')
