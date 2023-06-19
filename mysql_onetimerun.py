@@ -38,3 +38,4 @@ os.system("mysql -e 'CREATE TABLE if not exists crypto_coins_test.test (\
 print('crypto_coins_raw_data table has been created')
 
 
+print('just test')
